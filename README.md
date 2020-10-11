@@ -28,10 +28,12 @@ Shape:
 -	Shape reflects “roundness” of sound: tuba is very rounded shape whereas higher, sharper instruments are very spiky diamonds, violins are in the middle
 -	Length of note also reflected in how wide shape is (i.e. when a note is held for longer, the shape gets flatter and wider)
 -	Location of shape vertically on page reflects the note location on a scale but also differentiates different notes to indicate different parts/players
+
 Color: 
 - Warm versus cool colors reflect the type of instrument: lower/background instruments like the tuba, piano, clarinet are cool colors which differentiates them from the warm colored high instruments like the violins and the flutes
 -	When they are there, the low instruments stand out against the high ones visually as they do sonically
 -	Shapes appear to “light up” when they are played which shows where the music is with relation to the visual
+
 Line:
 -	Each instrument ranges around a set midpoint that is unique to that instrument so the viewer can see the changes in notes of the instrument, but it remains clear where each line is
 -	The shapes are defined by their lines so it is clear when they are being played
