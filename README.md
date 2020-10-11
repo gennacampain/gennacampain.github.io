@@ -23,14 +23,14 @@ k)	Incorrect frame of reference – use appropriate data to compare with
 
 ### Teaching to See Notes
 
-•	“If you love something, the work will be just fine”
-•	Go beyond what it is to focus on what it is doing
-•	Use of contrast (black and white)
-•	Letters have basic geometric elements: diagonal, straight line, half circle
-•	“Letters are a memory of motion”
-•	The eye wants order and predictability
-•	The hand is dramatic and expressive
-•	Writing must be a compromise between what the hand wants, and the eye wants
+-	“If you love something, the work will be just fine”
+-	Go beyond what it is to focus on what it is doing
+-	Use of contrast (black and white)
+-	Letters have basic geometric elements: diagonal, straight line, half circle
+-	“Letters are a memory of motion”
+-	The eye wants order and predictability
+-	The hand is dramatic and expressive
+-	Writing must be a compromise between what the hand wants, and the eye wants
 
 ### Shape, Color, and Line in Stephen Malinowski’s Music Visualization
 
